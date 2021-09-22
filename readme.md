@@ -1,6 +1,8 @@
-[![Version][version-badge]][qt-store]
-[![Rating][rating-badge]][qt-store]
-[![Users][users-badge]][qt-store]
+# Work In Progress
+
+Attempting to port the Chrome "Quick Tabs" extension to Firefox. Not yet ready.
+
+Original readme follows:
 
 # INTRODUCTION
 
